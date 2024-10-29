@@ -7,7 +7,8 @@ const cities = [
   'Colombo', 'Kandy', 'Galle', 'Nuwara Eliya', 'Jaffna', 'Anuradhapura',
   'Ratnapura', 'Negombo', 'Trincomalee', 'Batticaloa', 'Badulla', 'Matara',
   'Hambantota', 'Kurunegala', 'Polonnaruwa', 'Kilinochchi', 'Mannar',
-  'Vavuniya', 'Dambulla', 'Haputale'
+  'Vavuniya', 'Dambulla', 'Haputale','Ampara','Gampaha','Kalutara','Kegalle',
+  'Matale','Monaragala','Mullaitivu','Puttalam'
 ];
 
 export default function HomeScreen() {
